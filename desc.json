@@ -1,0 +1,123 @@
+[
+  {
+    "name": "Rak piersi",
+    "icd10": "C50",
+    "cel diagnostyczny": "Kwalifikacja do terapii celowanych, Diagnostyka różnicowa",
+    "badania genetyczne": "Analiza mutacji BRCA1 i BRCA2",
+    "metodyka badawcza": "Badania obrazowe (mammografia, USG)",
+    "materiał": "Biopsja tkanki piersi"
+  },
+  {
+    "name": "Rak żołądka",
+    "icd10": "C16",
+    "cel diagnostyczny": "Kwalifikacja do terapii celowanych, Diagnostyka różnicowa",
+    "badania genetyczne": "Sekwencjonowanie DNA",
+    "metodyka badawcza": "Endoskopia, Tomografia komputerowa",
+    "materiał": "Biopsja żołądka"
+  },
+  {
+    "name": "Cukrzyca typu 2",
+    "icd10": "E11",
+    "cel diagnostyczny": "Ocena ryzyka powikłań, Personalizacja leczenia",
+    "badania genetyczne": "Testy genetyczne związane z insulinoopornością",
+    "metodyka badawcza": "Badania laboratoryjne (poziom glukozy, HbA1c)",
+    "materiał": "Krew, Mocz"
+  },
+  {
+    "name": "Choroba Alzheimera",
+    "icd10": "G30",
+    "cel diagnostyczny": "Rozpoznanie wczesne, Ocena postępu choroby",
+    "badania genetyczne": "Analiza genów związanych z ryzykiem Alzheimera",
+    "metodyka badawcza": "Badania neuropsychologiczne, Obrazowanie mózgu",
+    "materiał": "Nie dotyczy"
+  },
+  {
+    "name": "Astma oskrzelowa",
+    "icd10": "J45",
+    "cel diagnostyczny": "Ocena stopnia zaawansowania, Personalizacja leczenia",
+    "badania genetyczne": "Badania genetyczne związane z reaktywnością oskrzeli",
+    "metodyka badawcza": "Spirometria, Testy alergiczne",
+    "materiał": "Nie dotyczy"
+  },
+  {
+    "name": "Zawał serca",
+    "icd10": "I21",
+    "cel diagnostyczny": "Rozpoznanie wczesne, Ocena ryzyka powikłań",
+    "badania genetyczne": "Analiza genów związanych z predyspozycją do chorób serca",
+    "metodyka badawcza": "Elektrokardiografia (EKG), Testy laboratoryjne",
+    "materiał": "Krew"
+  },
+  {
+    "name": "Reumatoidalne zapalenie stawów",
+    "icd10": "M05",
+    "cel diagnostyczny": "Ocena aktywności choroby, Personalizacja leczenia",
+    "badania genetyczne": "Sekwencjonowanie genów związanych z reumatoidalnym zapaleniem stawów",
+    "metodyka badawcza": "Badania obrazowe stawów (RTG, MRI)",
+    "materiał": "Materiał biologiczny z stawów"
+  },
+  {
+    "name": "Choroba Parkinsona",
+    "icd10": "G20",
+    "cel diagnostyczny": "Rozpoznanie wczesne, Ocena postępu choroby",
+    "badania genetyczne": "Analiza genów związanych z ryzykiem choroby Parkinsona",
+    "metodyka badawcza": "Badania neurologiczne, Tomografia komputerowa",
+    "materiał": "Nie dotyczy"
+  },
+  {
+    "name": "Choroba Crohna",
+    "icd10": "K50",
+    "cel diagnostyczny": "Ocena aktywności choroby, Personalizacja leczenia",
+    "badania genetyczne": "Badania genetyczne związane z predyspozycją do chorób jelit",
+    "metodyka badawcza": "Kolonoskopia, Badania laboratoryjne",
+    "materiał": "Biopsja jelita"
+  },
+  {
+    "name": "Czerwienicaa",
+    "icd10": "D69",
+    "cel diagnostyczny": "Ocena stopnia zaawansowania, Personalizacja leczenia",
+    "badania genetyczne": "Analiza genów związanych z czerwienicą",
+    "metodyka badawcza": "Badania laboratoryjne (morfologia, przeciwciała)",
+    "materiał": "Krew"
+  },
+
+  {
+    "name": "Czerwienicaa",
+    "icd10": "D69",
+    "cel diagnostyczny": "Ocena stopnia zaawansowania, Personalizacja leczenia",
+    "badania genetyczne": "Analiza genów związanych z czerwienicą",
+    "metodyka badawcza": "Badania laboratoryjne (morfologia, przeciwciała)",
+    "materiał": "Krew"
+  },
+  {
+    "name": "Czerwienicaa",
+    "icd10": "D69",
+    "cel diagnostyczny": "Ocena stopnia zaawansowania, Personalizacja leczenia",
+    "badania genetyczne": "Analiza genów związanych z czerwienicą",
+    "metodyka badawcza": "Badania laboratoryjne (morfologia, przeciwciała)",
+    "materiał": "Krew"
+  },
+  {
+    "name": "Czerwienicaa",
+    "icd10": "D69",
+    "cel diagnostyczny": "Ocena stopnia zaawansowania, Personalizacja leczenia",
+    "badania genetyczne": "Analiza genów związanych z czerwienicą",
+    "metodyka badawcza": "Badania laboratoryjne (morfologia, przeciwciała)",
+    "materiał": "Krew"
+  },
+  {
+    "name": "Czerwienicaa",
+    "icd10": "D69",
+    "cel diagnostyczny": "Ocena stopnia zaawansowania, Personalizacja leczenia",
+    "badania genetyczne": "Analiza genów związanych z czerwienicą",
+    "metodyka badawcza": "Badania laboratoryjne (morfologia, przeciwciała)",
+    "materiał": "Krew"
+  },
+  {
+    "name": "Czerwienicaa",
+    "icd10": "D69",
+    "cel diagnostyczny": "Ocena stopnia zaawansowania, Personalizacja leczenia",
+    "badania genetyczne": "Analiza genów związanych z czerwienicą",
+    "metodyka badawcza": "Badania laboratoryjne (morfologia, przeciwciała)",
+    "materiał": "Krew"
+  }
+]
