@@ -34,8 +34,6 @@ const DiseaseDetailScreen = ({ route }) => {
   }
 
   const currentProperty = properties[currentPropertyIndex]
-
-  // Sprawdzenie, czy można wyłączyć przyciski "Następny" i "Powrót"
   const isNextDisabled = currentPropertyIndex === properties.length - 1
   const isBackDisabled = currentPropertyIndex === 0
 
@@ -99,7 +97,7 @@ const styles = StyleSheet.create({
     marginRight: 20,
   },
   disabledButton: {
-    backgroundColor: '#ccc', // Kolor tła przycisku wyłączonego
+    backgroundColor: '#ccc',
   },
   buttonText: {
     color: '#fff',

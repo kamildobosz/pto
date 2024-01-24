@@ -67,28 +67,12 @@ const App = () => {
               options={({ route }) => ({
                 title: 'Szczegóły',
                 headerRight: () => (
-                  <TouchableOpacity
-                    style={{ marginRight: 10 }}
-                    onPress={() => {
-                      // Tutaj możesz otworzyć okno wyszukiwania na ekranie "Szczegóły"
-                      // Możesz nawigować do odpowiedniego ekranu lub wyświetlić modal z wyszukiwarką
-                    }}
-                  >
-                    <Image
-                      source={searchImage} // Dodaj import ikony wyszukiwania
-                      style={{ width: 30, height: 30 }}
-                    />
+                  <TouchableOpacity style={{ marginRight: 10 }} onPress={() => {}}>
+                    <Image source={searchImage} style={{ width: 30, height: 30 }} />
                   </TouchableOpacity>
                 ),
               })}
             />
-
-            {/* <Stack.Screen
-              name="DiseaseDetail"
-              component={DiseaseDetailScreen}
-              options={{ title: 'Szczegóły' }}
-              TuMABYĆIKONAWYSZUKIWANIA
-            /> */}
           </>
         ) : (
           <Stack.Screen name="Login" options={{ headerShown: false }}>

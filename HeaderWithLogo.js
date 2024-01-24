@@ -1,13 +1,10 @@
 import React from 'react'
 import { View, Image, Text, StyleSheet, TouchableOpacity } from 'react-native'
 import logoImage from './assets/pto.jpg'
-import searchIcon from './assets/favicon.png' // Importuj ikonę lupy
+import searchIcon from './assets/favicon.png'
 
 const HeaderWithLogo = ({ title, navigation }) => {
-  const handleSearch = () => {
-    // Tutaj możesz otworzyć okno wyszukiwania
-    // Możesz nawigować do ekranu wyszukiwania lub wyświetlić modal z wyszukiwarką
-  }
+  const handleSearch = () => {}
 
   return (
     <View style={styles.header}>
